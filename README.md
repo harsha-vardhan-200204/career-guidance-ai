@@ -5,6 +5,7 @@ An AI-powered career guidance platform that helps students and job seekers disco
 ## 🌐 Live Demo
 
 🚀 https://smart-career-guidance-system-3f8e34099.vercel.app/
+   https://smart-career-guidance-system-pp08xnrv7.vercel.app/
 
 ---
 
